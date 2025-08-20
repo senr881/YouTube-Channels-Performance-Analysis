@@ -19,9 +19,8 @@ Bar Charts to show top-performing videos
 Filters for video IDs and specific time ranges
 
 📈 Key Insights
-Top Performing Videos – Certain videos consistently drive the highest views and likes, indicating the type of content that resonates most with the audience.
-Subscriber Trends – Sharp spikes in subscriber gains were linked to the release of trending or viral videos, while declines often followed periods of low activity.
-Monthly Engagement Patterns – Engagement rates peaked in the months when content was uploaded more frequently.
-Video Format Impact – Shorter, high-value content tended to receive more likes and shares compared to long videos.
-Audience Retention Factors – Videos with clear titles, engaging thumbnails, and concise delivery had higher retention rates.
-Optimal Upload Time – Peak viewership occurred when videos were uploaded during weekends and evenings, suggesting better scheduling opportunities.
+Built KPI cards to track overall performance (8.7K likes, 141 dislikes, 187K views, 1.2K comments, 1.9K shares).
+Developed trend analysis visuals for monthly likes, comments, and views, identifying engagement spikes in April, June, and December.
+Conducted subscriber analytics (gained vs. lost by year) showing peak growth in 2020–2021 and reduced churn by 2023.
+Analyzed Top 10 videos by likes and views, highlighting high-impact content.
+Evaluated playlist performance (9.7K videos added vs. 904 removed) and premium audience behavior (32K Red Views, 6M watch time).
